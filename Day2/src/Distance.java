@@ -1,5 +1,3 @@
-package operators;
-import java.util.*;
 public class Distance {
     public static void main(String[] args) {
 

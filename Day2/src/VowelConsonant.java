@@ -1,5 +1,3 @@
-package switchcase;
-
 import java.util.Scanner;
 
 public class VowelConsonant {
