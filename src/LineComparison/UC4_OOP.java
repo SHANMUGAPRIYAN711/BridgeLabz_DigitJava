@@ -1,3 +1,5 @@
+package LineComparison;
+
 public class UC4_OOP {
 
     public static void runOOPDemo() {

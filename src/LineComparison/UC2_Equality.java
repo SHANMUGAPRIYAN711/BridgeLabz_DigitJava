@@ -1,3 +1,5 @@
+package LineComparison;
+
 public class UC2_Equality {
     public static void checkEquality(double l1, double l2){
         Double length1 = l1;

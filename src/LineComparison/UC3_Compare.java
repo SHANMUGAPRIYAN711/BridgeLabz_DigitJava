@@ -1,3 +1,5 @@
+package LineComparison;
+
 public class UC3_Compare {
 
     public static void compareLines(double l1, double l2) {

@@ -1,7 +1,9 @@
+package LineComparison;
+
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Welcome to Line Comparison Computation Program");
+        System.out.println("Welcome to LineComparison.Line Comparison Computation Program");
 
         // UC1
         double length1 = UC1_Length.calculateLength(0, 0, 3, 4);

@@ -1,3 +1,5 @@
+package LineComparison;
+
 public class UC1_Length {
 
     public static double calculateLength(int x1, int y1, int x2, int y2) {

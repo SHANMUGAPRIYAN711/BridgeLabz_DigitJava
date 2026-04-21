@@ -1,3 +1,5 @@
+package LineComparison;
+
 public class Line implements Comparable<Line> {
 
     Point p1, p2;
