@@ -8,7 +8,6 @@ public class Main {
         // UC1
         double length1 = UC1_Length.calculateLength(0, 0, 3, 4);
         double length2 = UC1_Length.calculateLength(1, 1, 4, 5);
-
         System.out.println("Length1: " + length1);
         System.out.println("Length2: " + length2);
 
